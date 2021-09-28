@@ -1,0 +1,14 @@
+{
+  "name": "azure-functions-examples",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/arm-resources": "^4.2.2",
+    "@azure/identity": "^1.5.2"
+  },
+  "devDependencies": {}
+}
